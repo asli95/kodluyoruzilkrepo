@@ -3,7 +3,7 @@ Kodluyoruz Frontend Eğitimi kapsamında açtığım ilk repo.İçerisinde bir a
 
 ![image](https://r.resimlink.com/8EsbDO4gRvNI.png)
 
-![image]()
+
 
 
 ## Installation
